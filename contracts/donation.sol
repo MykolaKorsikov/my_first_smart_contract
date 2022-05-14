@@ -24,3 +24,4 @@ contract Donation {
         donatee.transfer(address(this).balance);
     }
 }
+node 
